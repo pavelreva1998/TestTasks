@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  OpenWeather
+
+  Created by Pavel Reva on 3/29/19.
+  Copyright © 2019 Pavel Reva. All rights reserved.
+*/
+
+"Today" = "Today";
+"Forecast" = "Forecast";
+"Share" = "Share";
+"shared_text" = "The weather in %@ the following: temperature is %@, pressure is %@, humidity is %@";
+"Ok" = "Ok";
+"error_text" = "An error has occured. Check your location permission and wifi connection.";

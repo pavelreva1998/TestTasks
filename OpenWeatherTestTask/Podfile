@@ -1,0 +1,13 @@
+use_frameworks!
+platform :ios, '11.0'
+
+target 'OpenWeather' do
+  
+    pod 'SwiftyJSON'
+    pod 'Kingfisher'
+    pod 'VRGSoftSwiftIOSKit'
+    
+    pod 'Firebase/Core'
+    pod 'Firebase/Database'
+    pod 'Firebase/Auth'
+end
